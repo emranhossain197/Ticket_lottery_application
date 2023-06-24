@@ -11,7 +11,7 @@
 
 
 ticket information : 
-- number(uniqe)
+- number(unique)
 - username
 - price 
 - timestrap
