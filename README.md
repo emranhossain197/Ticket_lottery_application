@@ -1,7 +1,5 @@
 # Ticket_lottery_application
 
-# ticket lottery application 
-
 
 - sell lottery ticket
 - update lottery ticket
