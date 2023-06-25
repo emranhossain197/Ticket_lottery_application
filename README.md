@@ -19,7 +19,7 @@ ticket information :
 
 Router: 
 
-/ticket/t/:ticketId - GET- find ticket by ticketId;
+/ticket/t/:ticketId - GET- find ticket by ticketId;  
 /ticket/t/:ticketId - PATCH- ticket update by ticketId;
 /ticket/t/:ticketId - delete- ticket delete by ticketId
 /ticket/u/:username - GET- find ticket by username;
